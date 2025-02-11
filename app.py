@@ -1,6 +1,8 @@
+import base64
 import json
 import os
 from datetime import datetime
+from pathlib import Path
 
 import exifread
 import openpyxl
@@ -10,7 +12,6 @@ from PIL.ExifTags import GPSTAGS, TAGS
 
 
 def dms_to_decimal(dms):
-    # Converte uma lista [graus, minutos, segundos] para decimal
     degrees = float(dms.values[0].num) / float(dms.values[0].den)
     minutes = float(dms.values[1].num) / float(dms.values[1].den)
     seconds = float(dms.values[2].num) / float(dms.values[2].den)
@@ -18,12 +19,10 @@ def dms_to_decimal(dms):
     decimal = degrees + (minutes / 60.0) + (seconds / 3600.0)
     return decimal
 
-
 def get_exif_data(image_path):
     with open(image_path, 'rb') as f:
         tags = exifread.process_file(f)
     return tags
-
 
 def extract_metadata(image_path):
     exif_data = get_exif_data(image_path)
@@ -47,7 +46,6 @@ def extract_metadata(image_path):
         lat_ref = str(exif_data['GPS GPSLatitudeRef'])
         lon_ref = str(exif_data['GPS GPSLongitudeRef'])
 
-        # Converter para decimal e arredondar para 4 casas decimais
         metadata['Latitude'] = round(dms_to_decimal(lat_dms), 4)
         if lat_ref in ['S']:
             metadata['Latitude'] = -metadata['Latitude']
@@ -58,10 +56,9 @@ def extract_metadata(image_path):
 
     return metadata
 
-
 def obter_endereco(latitude, longitude):
     url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={latitude}&lon={longitude}"
-    headers = {"User-Agent": "MeuBotDeGeocodificacao/1.0"}  # Necessário para usar a API Nominatim
+    headers = {"User-Agent": "MeuBotDeGeocodificacao/1.0"}
     response = requests.get(url, headers=headers)
 
     if response.status_code == 200:
@@ -71,19 +68,15 @@ def obter_endereco(latitude, longitude):
     else:
         return "Endereço não encontrado"
 
-
 def save_to_excel(metadata_list, output_file):
     wb = openpyxl.Workbook()
     ws = wb.active
 
-    # Definir cabeçalhos
     ws.append(['Nome do Arquivo', 'Data e Hora', 'Latitude', 'Longitude', 'Endereço'])
 
-    # Adicionar dados
     for metadata in metadata_list:
         ws.append([metadata['Nome do Arquivo'], metadata['Data e Hora'], metadata['Latitude'], metadata['Longitude'], metadata['Endereço']])
 
-    # Ajustar largura das colunas
     for column in ws.columns:
         max_length = 0
         column_letter = column[0].column_letter
@@ -96,17 +89,35 @@ def save_to_excel(metadata_list, output_file):
         adjusted_width = (max_length + 2) * 1.2
         ws.column_dimensions[column_letter].width = adjusted_width
 
-    # Centralizar conteúdo
     for row in ws.iter_rows():
         for cell in row:
             cell.alignment = Alignment(horizontal='center')
 
-    # Salvar arquivo
     wb.save(output_file)
 
+def converter_para_base64(caminho_origem, caminho_destino):
+    if not caminho_origem.exists():
+        print(f"Erro: O caminho '{caminho_origem}' não existe.")
+        return
+
+    caminho_destino.mkdir(parents=True, exist_ok=True)
+
+    formatos_aceitos = ['.jpg', '.jpeg', '.png']
+    for arquivo in caminho_origem.iterdir():
+        if arquivo.suffix.lower() in formatos_aceitos:
+            with open(arquivo, "rb") as imagem_arquivo:
+                encoded_string = base64.b64encode(imagem_arquivo.read()).decode('utf-8')
+                caminho_saida = caminho_destino / f"{arquivo.stem}.txt"
+                with open(caminho_saida, "w") as arquivo_saida:
+                    arquivo_saida.write(encoded_string)
+                print(f"Convertido: {arquivo.name} -> {arquivo.stem}.txt")
 
 def main(directory, output_file_json, output_file_excel):
     metadata_list = []
+
+    # Caminho para salvar as imagens em Base64
+    base64_dir = Path(r"C:\Users\Cauã Campos\Documents\dev\CoordByPhotos\imagesbase64")
+    base64_dir.mkdir(parents=True, exist_ok=True)
 
     for filename in os.listdir(directory):
         if filename.lower().endswith(('.jpg', '.jpeg', '.png')):
@@ -120,6 +131,14 @@ def main(directory, output_file_json, output_file_excel):
 
             metadata_list.append(metadata)
 
+            # Converter a imagem para Base64 e salvar no diretório especificado
+            with open(image_path, "rb") as imagem_arquivo:
+                encoded_string = base64.b64encode(imagem_arquivo.read()).decode('utf-8')
+                caminho_saida = base64_dir / f"{Path(filename).stem}.txt"
+                with open(caminho_saida, "w") as arquivo_saida:
+                    arquivo_saida.write(encoded_string)
+                print(f"Convertido para Base64: {filename} -> {Path(filename).stem}.txt")
+
     with open(output_file_json, "w", encoding="utf-8") as f:
         json.dump(metadata_list, f, ensure_ascii=False, indent=4)
 
@@ -128,9 +147,8 @@ def main(directory, output_file_json, output_file_excel):
     save_to_excel(metadata_list, output_file_excel)
     print(f"Arquivo Excel salvo com sucesso: {output_file_excel}")
 
-
 if __name__ == "__main__":
-    directory = r"C:\Users\Cauã Campos\Documents\dev\CoordByPhotos\images"  # Substitua pelo caminho do seu diretório de imagens
+    directory = r"C:\Users\Cauã Campos\Documents\dev\CoordByPhotos\images"
     output_file_json = "metadados_fotos.json"
     output_file_excel = "metadados_fotos.xlsx"
     main(directory, output_file_json, output_file_excel)
