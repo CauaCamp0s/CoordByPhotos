@@ -1,16 +1,520 @@
 [
     {
-        "Nome do Arquivo": "GP1.JPG",
-        "Data e Hora": "2025-02-06 14:30:16",
-        "Latitude": -10.9557,
-        "Longitude": -37.0446,
-        "Endereço": "Avenida Mário Jorge Menezes Vieira, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-660, Brasil"
+        "Nome do Arquivo": "GPAA0195.JPG",
+        "Data e Hora": "2025-02-11 17:19:44",
+        "Latitude": -10.9454,
+        "Longitude": -37.0459,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
     },
     {
-        "Nome do Arquivo": "GP2.JPG",
-        "Data e Hora": "2025-02-06 14:30:15",
-        "Latitude": -10.9557,
-        "Longitude": -37.0446,
-        "Endereço": "Avenida Mário Jorge Menezes Vieira, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-660, Brasil"
+        "Nome do Arquivo": "GPAA0196.JPG",
+        "Data e Hora": "2025-02-11 17:19:49",
+        "Latitude": -10.9453,
+        "Longitude": -37.0459,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0197.JPG",
+        "Data e Hora": "2025-02-11 17:19:54",
+        "Latitude": -10.945,
+        "Longitude": -37.0461,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0198.JPG",
+        "Data e Hora": "2025-02-11 17:19:59",
+        "Latitude": -10.9449,
+        "Longitude": -37.0462,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0199.JPG",
+        "Data e Hora": "2025-02-11 17:20:04",
+        "Latitude": -10.9447,
+        "Longitude": -37.0463,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0200.JPG",
+        "Data e Hora": "2025-02-11 17:20:09",
+        "Latitude": -10.9445,
+        "Longitude": -37.0464,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0201.JPG",
+        "Data e Hora": "2025-02-11 17:20:14",
+        "Latitude": -10.9444,
+        "Longitude": -37.0465,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0202.JPG",
+        "Data e Hora": "2025-02-11 17:20:19",
+        "Latitude": -10.9442,
+        "Longitude": -37.0466,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0203.JPG",
+        "Data e Hora": "2025-02-11 17:20:24",
+        "Latitude": -10.9442,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0204.JPG",
+        "Data e Hora": "2025-02-11 17:20:29",
+        "Latitude": -10.9442,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0205.JPG",
+        "Data e Hora": "2025-02-11 17:20:34",
+        "Latitude": -10.9442,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0206.JPG",
+        "Data e Hora": "2025-02-11 17:20:39",
+        "Latitude": -10.9442,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0207.JPG",
+        "Data e Hora": "2025-02-11 17:20:44",
+        "Latitude": -10.9441,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAA0208.JPG",
+        "Data e Hora": "2025-02-11 17:20:49",
+        "Latitude": -10.9441,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0209.JPG",
+        "Data e Hora": "2025-02-11 17:21:09",
+        "Latitude": -10.9441,
+        "Longitude": -37.0467,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0210.JPG",
+        "Data e Hora": "2025-02-11 17:21:20",
+        "Latitude": -10.9441,
+        "Longitude": -37.0468,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0211.JPG",
+        "Data e Hora": "2025-02-11 17:21:30",
+        "Latitude": -10.9441,
+        "Longitude": -37.0468,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0212.JPG",
+        "Data e Hora": "2025-02-11 17:21:40",
+        "Latitude": -10.9441,
+        "Longitude": -37.0468,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0213.JPG",
+        "Data e Hora": "2025-02-11 17:21:50",
+        "Latitude": -10.944,
+        "Longitude": -37.0469,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0214.JPG",
+        "Data e Hora": "2025-02-11 17:22:00",
+        "Latitude": -10.9436,
+        "Longitude": -37.0472,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0215.JPG",
+        "Data e Hora": "2025-02-11 17:22:10",
+        "Latitude": -10.9431,
+        "Longitude": -37.0478,
+        "Endereço": "Shopping Riomar, 400, Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0216.JPG",
+        "Data e Hora": "2025-02-11 17:22:20",
+        "Latitude": -10.9429,
+        "Longitude": -37.0479,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0217.JPG",
+        "Data e Hora": "2025-02-11 17:22:30",
+        "Latitude": -10.943,
+        "Longitude": -37.0479,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0218.JPG",
+        "Data e Hora": "2025-02-11 17:22:40",
+        "Latitude": -10.943,
+        "Longitude": -37.0479,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0219.JPG",
+        "Data e Hora": "2025-02-11 17:22:50",
+        "Latitude": -10.9429,
+        "Longitude": -37.048,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0220.JPG",
+        "Data e Hora": "2025-02-11 17:23:00",
+        "Latitude": -10.9429,
+        "Longitude": -37.0481,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAB0221.JPG",
+        "Data e Hora": "2025-02-11 17:23:10",
+        "Latitude": -10.9429,
+        "Longitude": -37.0481,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0222.JPG",
+        "Data e Hora": "2025-02-11 17:24:09",
+        "Latitude": -10.9425,
+        "Longitude": -37.0486,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49036-245, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0223.JPG",
+        "Data e Hora": "2025-02-11 17:24:19",
+        "Latitude": -10.9422,
+        "Longitude": -37.049,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0224.JPG",
+        "Data e Hora": "2025-02-11 17:24:29",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0225.JPG",
+        "Data e Hora": "2025-02-11 17:24:39",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0226.JPG",
+        "Data e Hora": "2025-02-11 17:24:49",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0227.JPG",
+        "Data e Hora": "2025-02-11 17:24:59",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0228.JPG",
+        "Data e Hora": "2025-02-11 17:25:09",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0229.JPG",
+        "Data e Hora": "2025-02-11 17:25:19",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0230.JPG",
+        "Data e Hora": "2025-02-11 17:25:29",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0231.JPG",
+        "Data e Hora": "2025-02-11 17:25:39",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0232.JPG",
+        "Data e Hora": "2025-02-11 17:25:49",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0233.JPG",
+        "Data e Hora": "2025-02-11 17:25:59",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0234.JPG",
+        "Data e Hora": "2025-02-11 17:26:09",
+        "Latitude": -10.942,
+        "Longitude": -37.0493,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0235.JPG",
+        "Data e Hora": "2025-02-11 17:26:19",
+        "Latitude": -10.9419,
+        "Longitude": -37.0494,
+        "Endereço": "Avenida Delmiro Golveia, Coroa do Meio, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0236.JPG",
+        "Data e Hora": "2025-02-11 17:26:29",
+        "Latitude": -10.9416,
+        "Longitude": -37.0498,
+        "Endereço": "Avenida Delmiro Golveia, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49035-500, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0237.JPG",
+        "Data e Hora": "2025-02-11 17:26:39",
+        "Latitude": -10.9413,
+        "Longitude": -37.0506,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Garcia, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-330, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0238.JPG",
+        "Data e Hora": "2025-02-11 17:26:49",
+        "Latitude": -10.9423,
+        "Longitude": -37.051,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-330, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0239.JPG",
+        "Data e Hora": "2025-02-11 17:26:59",
+        "Latitude": -10.9431,
+        "Longitude": -37.0511,
+        "Endereço": "Edifício Palm Springs, 2340, Avenida Paulo Barreto de Menezes, Bairro Garcia, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-330, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0240.JPG",
+        "Data e Hora": "2025-02-11 17:27:09",
+        "Latitude": -10.9444,
+        "Longitude": -37.0511,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0241.JPG",
+        "Data e Hora": "2025-02-11 17:27:19",
+        "Latitude": -10.9459,
+        "Longitude": -37.0511,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0242.JPG",
+        "Data e Hora": "2025-02-11 17:27:29",
+        "Latitude": -10.9473,
+        "Longitude": -37.0511,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0243.JPG",
+        "Data e Hora": "2025-02-11 17:27:39",
+        "Latitude": -10.9488,
+        "Longitude": -37.0513,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0244.JPG",
+        "Data e Hora": "2025-02-11 17:27:49",
+        "Latitude": -10.95,
+        "Longitude": -37.0516,
+        "Endereço": "EMBRAPA, 3250, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0245.JPG",
+        "Data e Hora": "2025-02-11 17:27:59",
+        "Latitude": -10.9513,
+        "Longitude": -37.0519,
+        "Endereço": "EMBRAPA, 3250, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0246.JPG",
+        "Data e Hora": "2025-02-11 17:28:09",
+        "Latitude": -10.9526,
+        "Longitude": -37.0522,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0247.JPG",
+        "Data e Hora": "2025-02-11 17:28:19",
+        "Latitude": -10.9534,
+        "Longitude": -37.0524,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0248.JPG",
+        "Data e Hora": "2025-02-11 17:28:29",
+        "Latitude": -10.9534,
+        "Longitude": -37.0524,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0249.JPG",
+        "Data e Hora": "2025-02-11 17:28:39",
+        "Latitude": -10.9534,
+        "Longitude": -37.0524,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0250.JPG",
+        "Data e Hora": "2025-02-11 17:28:49",
+        "Latitude": -10.9534,
+        "Longitude": -37.0524,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0251.JPG",
+        "Data e Hora": "2025-02-11 17:28:59",
+        "Latitude": -10.9535,
+        "Longitude": -37.0524,
+        "Endereço": "3486, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0252.JPG",
+        "Data e Hora": "2025-02-11 17:29:09",
+        "Latitude": -10.9539,
+        "Longitude": -37.0526,
+        "Endereço": "Mansão Seixas Dórea, 3558, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0253.JPG",
+        "Data e Hora": "2025-02-11 17:29:19",
+        "Latitude": -10.9547,
+        "Longitude": -37.053,
+        "Endereço": "3598, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0254.JPG",
+        "Data e Hora": "2025-02-11 17:29:29",
+        "Latitude": -10.9556,
+        "Longitude": -37.0534,
+        "Endereço": "3598, Avenida Paulo Barreto de Menezes, Jardins, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0255.JPG",
+        "Data e Hora": "2025-02-11 17:29:39",
+        "Latitude": -10.9568,
+        "Longitude": -37.0538,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Inácio Barbosa, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49025-040, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0256.JPG",
+        "Data e Hora": "2025-02-11 17:29:49",
+        "Latitude": -10.9583,
+        "Longitude": -37.0543,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Inácio Barbosa, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49032-350, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0257.JPG",
+        "Data e Hora": "2025-02-11 17:29:59",
+        "Latitude": -10.9599,
+        "Longitude": -37.0548,
+        "Endereço": "Avenida Paulo Barreto de Menezes, Senhor do Bomfim, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49032-283, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0258.JPG",
+        "Data e Hora": "2025-02-11 17:30:09",
+        "Latitude": -10.9611,
+        "Longitude": -37.055,
+        "Endereço": "Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49032-350, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0259.JPG",
+        "Data e Hora": "2025-02-11 17:30:19",
+        "Latitude": -10.9616,
+        "Longitude": -37.055,
+        "Endereço": "Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49032-350, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0260.JPG",
+        "Data e Hora": "2025-02-11 17:30:29",
+        "Latitude": -10.962,
+        "Longitude": -37.055,
+        "Endereço": "Mansão Prime Park, 607, Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0261.JPG",
+        "Data e Hora": "2025-02-11 17:30:39",
+        "Latitude": -10.9622,
+        "Longitude": -37.055,
+        "Endereço": "Mansão Prime Park, 607, Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0262.JPG",
+        "Data e Hora": "2025-02-11 17:30:49",
+        "Latitude": -10.9624,
+        "Longitude": -37.0551,
+        "Endereço": "Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAC0263.JPG",
+        "Data e Hora": "2025-02-11 17:30:59",
+        "Latitude": -10.9624,
+        "Longitude": -37.0551,
+        "Endereço": "Rua Joaquim Martins Fontes, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAD0264.JPG",
+        "Data e Hora": "2025-02-11 17:34:03",
+        "Latitude": -10.9618,
+        "Longitude": -37.0551,
+        "Endereço": "Rua Tenente Antônio Fontes Pitanga, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAD0265.JPG",
+        "Data e Hora": "2025-02-11 17:34:13",
+        "Latitude": -10.9618,
+        "Longitude": -37.0551,
+        "Endereço": "Rua Tenente Antônio Fontes Pitanga, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAD0266.JPG",
+        "Data e Hora": "2025-02-11 17:34:23",
+        "Latitude": -10.9618,
+        "Longitude": -37.0551,
+        "Endereço": "Rua Tenente Antônio Fontes Pitanga, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAD0267.JPG",
+        "Data e Hora": "2025-02-11 17:34:33",
+        "Latitude": -10.9618,
+        "Longitude": -37.0552,
+        "Endereço": "Rua Tenente Antônio Fontes Pitanga, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
+    },
+    {
+        "Nome do Arquivo": "GPAD0268.JPG",
+        "Data e Hora": "2025-02-11 17:34:43",
+        "Latitude": -10.9619,
+        "Longitude": -37.0552,
+        "Endereço": "Rua Tenente Antônio Fontes Pitanga, Farolândia, Aracaju, Região Geográfica Imediata de Aracaju, Região Geográfica Intermediária de Aracaju, Sergipe, Região Nordeste, 49030-000, Brasil"
     }
 ]
